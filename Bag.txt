@@ -1,0 +1,36 @@
+B1001 Bag1 Blue B12345 Large Tote 2300 
+Bag Code = B12345
+Bag Name = Bag1
+ Bag Size = Large
+Bag Id  = B1001
+ Bag Color = Blue
+Price = 2300
+Catagorise = Tote
+------------------------------------------
+B1002 Bag2 Yellow B56890 Medium Travelling 4000 
+Bag Code = B56890
+Bag Name = Bag2
+ Bag Size = Medium
+Bag Id  = B1002
+ Bag Color = Yellow
+Price = 4000
+Catagorise = Travelling
+------------------------------------------
+B1003 Bag3 Red 123456 Small Tote 1260 
+Bag Code = 123456
+Bag Name = Bag3
+ Bag Size = Small
+Bag Id  = B1003
+ Bag Color = Red
+Price = 1260
+Catagorise = Tote
+------------------------------------------
+B208 Hand Bag Brown B208 Small Hand Bag 4000 
+Bag Code = B208
+Bag Name = Hand Bag
+ Bag Size = Small
+Bag Id  = B208
+ Bag Color = Brown
+Price = 4000
+Catagorise = Hand Bag
+------------------------------------------

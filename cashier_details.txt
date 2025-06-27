@@ -1,0 +1,20 @@
+Cashier Name: Saduni
+Username: Sadu2002
+Password: S1234
+------------
+Cashier Name: Isuri
+Username: I3456
+Password: 789465
+------------
+Cashier Name: Wishmi
+Username: w12367
+Password: 9076435
+------------
+Cashier Name: Saduni
+Username: SaduX
+Password: S200234
+------------
+Cashier Name: Saduni
+Username: SaduX
+Password: S2002
+------------
